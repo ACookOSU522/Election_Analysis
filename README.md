@@ -18,8 +18,8 @@ The analysis of the election show that:
 
 - Three Counties participated in the election:
 
-	1- Jefferson County provided 10.5% of the votes with 38,855 votes.
-	2- Denver County provided 82.8% of the votes with 306,055 votes.
+	1- Jefferson County provided 10.5% of the votes with 38,855 votes.   	
+	2- Denver County provided 82.8% of the votes with 306,055 votes.    	
 	3- Araphoe County provided 6.7% of the votes with 24,801 votes.
 
 - The candidates were:	
