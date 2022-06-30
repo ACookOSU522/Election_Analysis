@@ -14,6 +14,7 @@ A Colorado Board of Elections employee has given the following tasks to complete
 
 ## Summary
 The analysis of the election show that:
+
 - There were 369,711 total votes cast in the election.
 
 - Three Counties participated in the election:
@@ -38,6 +39,13 @@ The analysis of the election show that:
 
   	Diana DeGette received 73.8% of the vote and 272,892 votes.
 	
+	![Terminal screenshot](https://user-images.githubusercontent.com/106544424/176575852-6659cc34-34a0-43ed-a00a-34f842b123c0.png)
+
+	
+## Election-Audit Summary
+For consideration by the election commission this program script may be used for any election or election element that has traceable data. If you have data available for economics votes in each county you would change:
+County_location=[] into County_location_economic=[]
+this will provide a return of county locations broken down by economics.
 
 ## Challenge Overview
 Utilizing new language platforms that taught blanket processes in an analysis exercise, providing a foundation knowledge base to elaborate on and fine tune as new programs/platforms are introduced.
